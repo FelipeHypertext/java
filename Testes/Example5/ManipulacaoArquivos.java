@@ -30,7 +30,7 @@ public class ManipulacaoArquivos {
         ArrayList<Contato> lista = new ArrayList<>();
 
         /* Representa o arquivo contatos.txt */
-        File arquivo = new File("contatos.txt");
+        File arquivo = new File("Testes/ArquivosAuxilio/contatos.txt");
 
         /*Append true - é possível adicionar texto durante a execução*/
         FileWriter writer = new FileWriter("contatos.txt", true);
