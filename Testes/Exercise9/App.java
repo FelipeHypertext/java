@@ -2,7 +2,6 @@ package Exercise9;
 
 import java.io.*;
 import java.util.*;
-import java.time.*;
 
 public class App {
     static void main(String[] args) throws FileNotFoundException {

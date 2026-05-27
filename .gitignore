@@ -30,5 +30,6 @@ Testes/.idea
 IdeaProjects.iml
 out/*
 
-#Example 5 test archive
+#Tests archive
 Testes/ArquivosAuxilio/contatos.txt
+Testes/ArquivosAuxilio/relatorio.txt
