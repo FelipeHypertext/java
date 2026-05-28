@@ -1,4 +1,4 @@
 package Exercise10;
 
-public record Carro(String fabricante, String modelo, float kilometragemLitro) {
+public record Carro(String fabricante, String modelo, float quilometragemLitro) {
 }
